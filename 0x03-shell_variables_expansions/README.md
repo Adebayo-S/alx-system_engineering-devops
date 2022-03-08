@@ -5,8 +5,8 @@
 > The project involves the following:
 
 #### Shell Initialization Files
-- What are the /etc/profile and /ec/profile.d directory
-- What is the ~/.bashrc file
+- What are the `/etc/profile` and `/ec/profile.d` directory
+- What is the `~/.bashrc` file
 
 #### Variables
 - Difference between locan and global variable
@@ -16,8 +16,8 @@
 
 #### Expansions
 - What expansion is
-- command substitution using $()
-- difference between '' and ""
+- command substitution using `$()`
+- difference between `' '` and `" "`
 
 #### Shell Arithmetic
 
