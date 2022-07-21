@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # display "Best School" and print "Hi" if condition is met
 count=0
-while [ $count -le 10 ]
+while [ $count -lt 10 ]
 do
 	echo "Best School"
 	if [ $count -eq 9 ]
