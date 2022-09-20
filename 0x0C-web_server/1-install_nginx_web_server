@@ -5,6 +5,5 @@
 #	   curl http://35.229.54.225/   --> returns header info
 apt-get -y update
 apt-get -y install nginx
-echo "Hello World!" > /var/www/html/index.html
+echo "Hello World!" > /var/www/html/index.nginx-debian.html
 service nginx start
-rm /var/www/html/index.nginx-debian.html
