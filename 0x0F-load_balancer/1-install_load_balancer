@@ -16,5 +16,5 @@ sudo apt-get -y update
 sudo apt-get -y install haproxy=2.0.\*
 # Backup original config file before attempt modifications
 sudo cp /etc/haproxy/haproxy.cfg /etc/haproxy/haproxy.cfg.backup
-printf "%s" "$CONFIG_SETTINGS" >> /etc/haproxy/haproxy.cfg
+printf "%s" "$CONFIG" >> /etc/haproxy/haproxy.cfg
 sudo service haproxy restart
