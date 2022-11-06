@@ -1,5 +1,8 @@
 # 0x19. Postmortem
 
+## Resources
+[How to write Postmortem](https://sysadmincasts.com/episodes/20-how-to-write-an-incident-report-postmortem)
+
 ## Requirements
 
 * Issue Summary (that is often what executives will read) must contain:
